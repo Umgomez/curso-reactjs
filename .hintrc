@@ -4,14 +4,7 @@
   ],
   "hints": {
     "compat-api/css": [
-      "default",
-      {
-        "ignore": [
-          "width: fit-content",
-          "-webkit-text-size-adjust",
-          "font-synthesis"
-        ]
-      }
+      "default"
     ]
   }
 }
